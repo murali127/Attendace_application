@@ -1,9 +1,9 @@
 # Attendance Management System
-````markdown
-
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+````markdown
+
 
 An Android application for managing student attendance with class-wise tracking and date-wise filtering capabilities.
 
@@ -25,19 +25,7 @@ An Android application for managing student attendance with class-wise tracking 
   - SQLite database storage
   - Persistent across app sessions
 
----
 
-## 📱 Screenshots
-
-| Main Menu | Add Class | Add Student |
-|-----------|-----------|-------------|
-| ![Main Menu](screenshots/main.png) | ![Add Class](screenshots/add_class.png) | ![Add Student](screenshots/add_student.png) |
-
-| Mark Attendance | Daily Attendance | Class Summary |
-|-----------------|------------------|---------------|
-| ![Mark Attendance](screenshots/mark_attendance.png) | ![Daily View](screenshots/daily_view.png) | ![Class Summary](screenshots/class_summary.png) |
-
----
 
 ## 🗃️ Database Schema
 
@@ -143,6 +131,18 @@ Contributions are welcome!
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin feature/your-feature`
 5. Open a Pull Request
+
+---
+
+## 📱 Screenshots
+
+| Main Menu | Add Class | Add Student |
+|-----------|-----------|-------------|
+| ![at1](https://github.com/user-attachments/assets/a8e80603-53d1-4bcc-b45e-2947c18d6385) | ![Add Class](https://github.com/murali127/Attendace_application/blob/2d9667e81be98b0242d34c86b5f3b4238694b580/at2.jpg?raw=true) | ![Add Student](https://github.com/murali127/Attendace_application/blob/2d9667e81be98b0242d34c86b5f3b4238694b580/at3.jpg?raw=true) |
+
+| Mark Attendance | Daily Attendance | Class Summary |
+|-----------------|------------------|---------------|
+| ![Mark Attendance](https://github.com/murali127/Attendace_application/blob/2d9667e81be98b0242d34c86b5f3b4238694b580/at4.jpg?raw=true) | ![Daily View](https://github.com/murali127/Attendace_application/blob/2d9667e81be98b0242d34c86b5f3b4238694b580/at5.jpg?raw=true) | ![Class Summary](https://github.com/murali127/Attendace_application/blob/2d9667e81be98b0242d34c86b5f3b4238694b580/at6.jpg?raw=true) |
 
 ---
 
