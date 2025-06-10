@@ -1,0 +1,13 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Attendance App</string>
+    <string name="add_class">Add Class</string>
+    <string name="add_student">Add Student</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="class_name">Class Name</string>
+    <string name="student_name">Student Name</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="save_class">Save Class</string>
+    <string name="save_student">Save Student</string>
+</resources>
